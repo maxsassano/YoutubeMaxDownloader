@@ -164,5 +164,6 @@ L'app non è affiliata a YouTube, Google o a yt-dlp.
 Se l'app ti è utile, puoi offrirmi un caffè:
 
 [![PayPal](https://img.shields.io/badge/PayPal-Offrimi%20un%20caffè-0070BA?logo=paypal)](https://paypal.me/veruscatanese/3EUR)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Offrimi%20un%20caffè-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/veruscatanese)
 
 Ogni contributo aiuta a mantenere il progetto attivo e senza pubblicità. Grazie! 🙏
