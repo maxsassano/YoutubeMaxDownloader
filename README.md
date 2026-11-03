@@ -1,6 +1,6 @@
 # YouTube Max Downloader — App per scaricare video e MP3
 
-[![Release](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/maxsassano/nautimag/releases)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/maxsassano/YoutubeMaxDownloader/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20%7C%20Android-informational)](https://github.com/maxsassano/YoutubeMaxDownloader)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 
@@ -12,7 +12,7 @@ Applicazione Windows per scaricare video o solo audio da YouTube in un click.
 Interfaccia pulita, supporto per link multipli, riconoscimento automatico dei link
 "sporchi" (playlist, timestamp, shorts) e aggiornamento automatico integrato dei tool.
 
-**Versione:** 1.0  
+**Versione:** 1.0.0  
 **Autore:** Massimo Sassano  
 **Anno:** 2026  
 **Sito / Repository:** [github.com/maxsassano/YoutubeMaxDownloader](https://github.com/maxsassano/YoutubeMaxDownloader)
