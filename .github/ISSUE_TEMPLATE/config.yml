@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+- name: 📧 Contatto diretto via email
+  url: mailto:massimo.sassano@gmail.com
+  about: Per richieste commerciali o comunicazioni private
+- name: 🌐 Sito web dello sviluppatore
+  url: https://github.com/maxsassano
+  about: Informazioni sullo sviluppatore e altri progetti
